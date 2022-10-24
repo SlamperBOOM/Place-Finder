@@ -15,7 +15,7 @@
 С помощью метода [3] ищутся интересные места в локации, далее для каждого найденного места с помощью метода [4] ищутся описания, всё это показывается пользователю в виде списка.
 Методы API:
 
-получение локаций с координатами и названиями: https://docs.graphhopper.com/#operation/getGeocode
-получение погоды по координатам https://openweathermap.org/current
-получение списка интересных мест по координатам: https://opentripmap.io/docs#/Objects%20list/getListOfPlacesByRadius
-получение описания места по его id: https://opentripmap.io/docs#/Object%20properties/getPlaceByXid
+[1] получение локаций с координатами и названиями: https://docs.graphhopper.com/#operation/getGeocode
+[2] получение погоды по координатам https://openweathermap.org/current
+[3] получение списка интересных мест по координатам: https://opentripmap.io/docs#/Objects%20list/getListOfPlacesByRadius
+[4] получение описания места по его id: https://opentripmap.io/docs#/Object%20properties/getPlaceByXid
